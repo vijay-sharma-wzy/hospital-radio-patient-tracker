@@ -1,0 +1,5 @@
+# Clasp config — contains real scriptId, do not commit
+.clasp.json
+
+# macOS metadata
+.DS_Store
